@@ -47,7 +47,7 @@ glaucus's chroot
 * `zlib-ng`: git
 
 ## Community
-* [Discord](https://discord.gg/gZSHj65)
+* [Discord](https://discord.gg/nDKNmNc)
 * [Gitter](https://gitter.im/glaucuslinux/chroot)
 * [Reddit](https://www.reddit.com/r/glaucus)
 * [Telegram](https://t.me/glaucuslinux)
