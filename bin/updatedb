@@ -203,7 +203,7 @@ export TMPDIR
 if test -n "$LIBEXECDIR" ; then
     : LIBEXECDIR already set, do nothing
 else
-    : ${LIBEXECDIR=/toolchain/libexec}
+    : ${LIBEXECDIR=/toolchain/lib/findutils}
 fi
 
 # The directory containing find.
