@@ -19,12 +19,16 @@ glaucus's chroot
 * `file`: 5.38
 * `findutils`: 4.7.0
 * `gcc`: 9.3.0
+* `gmp`: 6.2.0
 * `grep`: 3.4
+* `isl`: 0.22.1
 * `libarchive`: 3.4.2
 * `libstdc++-v3`: 9.3.0
 * `m4`: 1.4.18
 * `make`: 4.3
 * `mawk`: 1.3.4-20200120
+* `mpc`: 1.1.0
+* `mpfr`: 4.0.2
 * `musl`: 1.2.0
 * `oksh`: 6.6
 * `patch`: 2.7.6
